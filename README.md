@@ -1,5 +1,5 @@
 # Starter Web Repo
-rebase sample
+rebase sample - more changes for ADD_3
 This repository is for showing how Git and GitHub work
 
 ## Purpose
